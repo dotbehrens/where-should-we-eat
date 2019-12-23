@@ -21,6 +21,10 @@
 ## Usage
 
 > Some usage instructions
+To run client, `npm install` inside client directory
+`npm run build`
+`npm install -g serve`
+`serve -s build`
 
 ## Requirements
 
