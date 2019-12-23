@@ -1,0 +1,19 @@
+{
+  "name": "where-should-we-eat",
+  "version": "1.0.0",
+  "description": "greenfield project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joannatomassoni/where-should-we-eat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joannatomassoni/where-should-we-eat/issues"
+  },
+  "homepage": "https://github.com/joannatomassoni/where-should-we-eat#readme"
+}
