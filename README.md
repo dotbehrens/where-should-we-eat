@@ -1,8 +1,6 @@
 # where-should-we-eat
 
-# Project Name
-
-> Pithy project description
+> Take some of the pain out of group-dining decision making!
 
 ## Team
 
