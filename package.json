@@ -4,6 +4,16 @@
   "description": "greenfield project",
   "main": "index.js",
   "private": true,
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joannatomassoni/where-should-we-eat/issues"
+  },
+  "homepage": "https://github.com/joannatomassoni/where-should-we-eat#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joannatomassoni/where-should-we-eat.git"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -33,15 +43,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/joannatomassoni/where-should-we-eat.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/joannatomassoni/where-should-we-eat/issues"
-  },
-  "homepage": "https://github.com/joannatomassoni/where-should-we-eat#readme",
+  }
 }
